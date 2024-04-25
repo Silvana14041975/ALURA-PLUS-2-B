@@ -62,6 +62,10 @@ body {
     margin: 1em 0 2em 0;
 }
 
-.container__caixa{
+.container__caixa {
     margin: 6em;
+}
+
+.secundario {
+    align-items: center;
 }
